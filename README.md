@@ -30,6 +30,5 @@
 I love automating everything! If something takes more than twice, I script it. 🚀  
 
 ### **📊 GitHub Stats & Streaks**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dubbri&show_icons=true&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dubbri&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dubbri&show_icons=true&theme=dark)
 
