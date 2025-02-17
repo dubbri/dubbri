@@ -1,8 +1,6 @@
-## Hi there 👋
-
-# 👋 Hi, I’m @dubbri  
-🔹 **Senior SRE | DevOps | Cloud Engineer | Automation Enthusiast**  
-🔹 **Experienced in Cloud, Infrastructure, and Reliability Engineering**  
+## Hi there 👋 I’m @dubbri  
+- **Senior SRE | DevOps | Cloud Engineer | Automation Enthusiast**  
+- **Experienced in Cloud, Infrastructure, and Reliability Engineering**  
 
 ## 👀 I’m interested in ...  
 - **Cloud Computing (AWS | Azure | GCP)**  
